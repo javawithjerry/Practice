@@ -16,7 +16,7 @@ public class Program1  //String BUffer
 		sb.append(apnd);
 		System.out.println("String after append "+sb);
 		
-		System.out.println("Enter the String to be inserted");   //Insert
+		System.out.println("Enter the String to be inserted");   //Inlssert
 		String insert=sc.nextLine();
 		System.out.println("Enter the position where you want to insert");
 		int n=sc.nextInt();
